@@ -1,1 +1,1 @@
-# start-point
+s = int(input('Try something ' ))
